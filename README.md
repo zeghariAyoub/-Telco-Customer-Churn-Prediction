@@ -1,5 +1,4 @@
 # -Telco-Customer-Churn-Prediction
-# Telco Customer Churn Prediction
 
 ## Project Overview
 This project aims to predict customer churn for a telecommunications company using a real-world dataset with over 7,000 customer records. By identifying which customers are likely to leave, businesses can target retention efforts effectively.
